@@ -14,5 +14,6 @@
 - [Github 技巧](blog/20221029_Github.md)
 - [Chrome 技巧](blog/20221101_Chrome.md)
 - [IDEA 技巧](blog/20221102_IDEA.md)
+- [PHP 技巧](blog/20230124_PHP.md)
 - [内网穿透服务搭建](blog/20221213_Frp.md)
 
